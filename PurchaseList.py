@@ -1,4 +1,4 @@
-from prettytable import PrettyTable
+from prettytable import PrettyTable #pip install prettytable
 
 table = PrettyTable(['Produto', 'Preço'])
 
